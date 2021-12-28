@@ -1,2 +1,2 @@
 # PemrogramanWebA
-Ini adalah repository untuk tutorial Misi 6-8 pada kelas Pemrograman Web A
+Ini adalah repository untuk menyimpan kode tutorial pada kelas Pemrograman Web A Institut Teknologi Sepuluh Nopember
